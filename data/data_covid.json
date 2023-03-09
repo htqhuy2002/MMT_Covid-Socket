@@ -1,0 +1,6842 @@
+{
+    "13/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "488,807",
+            "Tu_vong": "18,813",
+            "Ca_mac_moi": "915"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "287,601",
+            "Tu_vong": "2,944",
+            "Ca_mac_moi": "304"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "92,613",
+            "Tu_vong": "976",
+            "Ca_mac_moi": "329"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "40,226",
+            "Tu_vong": "428",
+            "Ca_mac_moi": "919"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "39,292",
+            "Tu_vong": "769",
+            "Ca_mac_moi": "72"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "31,044",
+            "Tu_vong": "377",
+            "Ca_mac_moi": "740"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "28,993",
+            "Tu_vong": "383",
+            "Ca_mac_moi": "680"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "28,911",
+            "Tu_vong": "687",
+            "Ca_mac_moi": "322"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "27,450",
+            "Tu_vong": "608",
+            "Ca_mac_moi": "422"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "25,021",
+            "Tu_vong": "359",
+            "Ca_mac_moi": "328"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "23,830",
+            "Tu_vong": "170",
+            "Ca_mac_moi": "466"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "22,398",
+            "Tu_vong": "83",
+            "Ca_mac_moi": "371"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "21,991",
+            "Tu_vong": "193",
+            "Ca_mac_moi": "268"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "20,214",
+            "Tu_vong": "117",
+            "Ca_mac_moi": "594"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "19,900",
+            "Tu_vong": "180",
+            "Ca_mac_moi": "334"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "18,941",
+            "Tu_vong": "51",
+            "Ca_mac_moi": "1,000"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "18,650",
+            "Tu_vong": "159",
+            "Ca_mac_moi": "581"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "17,222",
+            "Tu_vong": "71",
+            "Ca_mac_moi": "793"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "16,155",
+            "Tu_vong": "90",
+            "Ca_mac_moi": "867"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "15,677",
+            "Tu_vong": "28",
+            "Ca_mac_moi": "998"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "12,562",
+            "Tu_vong": "68",
+            "Ca_mac_moi": "476"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "9,115",
+            "Tu_vong": "54",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "9,056",
+            "Tu_vong": "22",
+            "Ca_mac_moi": "306"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "8,652",
+            "Tu_vong": "106",
+            "Ca_mac_moi": "205"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "7,779",
+            "Tu_vong": "30",
+            "Ca_mac_moi": "395"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,226",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "17"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "7,020",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "346"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "6,720",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "194"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "5,880",
+            "Tu_vong": "31",
+            "Ca_mac_moi": "81"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "5,506",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "4,876",
+            "Tu_vong": "48",
+            "Ca_mac_moi": "81"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "4,743",
+            "Tu_vong": "11",
+            "Ca_mac_moi": "211"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "4,674",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "165"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "4,483",
+            "Tu_vong": "42",
+            "Ca_mac_moi": "51"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "4,167",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "182"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "3,699",
+            "Tu_vong": "10",
+            "Ca_mac_moi": "103"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "3,454",
+            "Tu_vong": "19",
+            "Ca_mac_moi": "122"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "3,454",
+            "Tu_vong": "19",
+            "Ca_mac_moi": "122"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,085",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "30"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "2,475",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "183"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,324",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "15"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,288",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "56"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "2,112",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "30"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "1,830",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "134"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "1,785",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "58"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "1,773",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "54"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "1,589",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "20"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,344",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "8"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "1,283",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "49"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,250",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "5"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,088",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "32"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "792",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "96"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "780",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "12"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "779",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "40"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "516",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "8"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "514",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "1"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "457",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "16"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "394",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "4"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "392",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "288",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "9"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "232",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "2"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "42",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "1"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "35",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        }
+    ],
+    "14/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "489,798",
+            "Tu_vong": "18,872",
+            "Ca_mac_moi": "991"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "287,953",
+            "Tu_vong": "2,962",
+            "Ca_mac_moi": "352"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "92,949",
+            "Tu_vong": "1,004",
+            "Ca_mac_moi": "336"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "41,160",
+            "Tu_vong": "444",
+            "Ca_mac_moi": "931"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "39,372",
+            "Tu_vong": "778",
+            "Ca_mac_moi": "80"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "31,778",
+            "Tu_vong": "387",
+            "Ca_mac_moi": "734"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "29,685",
+            "Tu_vong": "383",
+            "Ca_mac_moi": "692"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "29,313",
+            "Tu_vong": "698",
+            "Ca_mac_moi": "402"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "27,750",
+            "Tu_vong": "636",
+            "Ca_mac_moi": "300"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "25,317",
+            "Tu_vong": "368",
+            "Ca_mac_moi": "296"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "24,266",
+            "Tu_vong": "178",
+            "Ca_mac_moi": "436"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "22,656",
+            "Tu_vong": "86",
+            "Ca_mac_moi": "258"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "22,202",
+            "Tu_vong": "199",
+            "Ca_mac_moi": "211"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "20,811",
+            "Tu_vong": "120",
+            "Ca_mac_moi": "597"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "20,375",
+            "Tu_vong": "192",
+            "Ca_mac_moi": "475"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "19,778",
+            "Tu_vong": "57",
+            "Ca_mac_moi": "837"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "19,246",
+            "Tu_vong": "163",
+            "Ca_mac_moi": "596"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "18,233",
+            "Tu_vong": "75",
+            "Ca_mac_moi": "1,011"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "16,728",
+            "Tu_vong": "93",
+            "Ca_mac_moi": "573"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "16,584",
+            "Tu_vong": "31",
+            "Ca_mac_moi": "907"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "13,027",
+            "Tu_vong": "73",
+            "Ca_mac_moi": "465"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "9,351",
+            "Tu_vong": "23",
+            "Ca_mac_moi": "295"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "9,293",
+            "Tu_vong": "54",
+            "Ca_mac_moi": "178"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "8,829",
+            "Tu_vong": "106",
+            "Ca_mac_moi": "177"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "8,247",
+            "Tu_vong": "31",
+            "Ca_mac_moi": "468"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "7,414",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "394"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,237",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "11"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "6,945",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "225"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "5,947",
+            "Tu_vong": "31",
+            "Ca_mac_moi": "67"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "5,561",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "55"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "4,921",
+            "Tu_vong": "49",
+            "Ca_mac_moi": "45"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "4,884",
+            "Tu_vong": "11",
+            "Ca_mac_moi": "141"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "4,867",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "193"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "4,547",
+            "Tu_vong": "42",
+            "Ca_mac_moi": "64"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "4,288",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "121"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "3,782",
+            "Tu_vong": "10",
+            "Ca_mac_moi": "83"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "3,604",
+            "Tu_vong": "19",
+            "Ca_mac_moi": "150"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "3,604",
+            "Tu_vong": "19",
+            "Ca_mac_moi": "150"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,094",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "9"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "2,859",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "382"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,353",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "28"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,333",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "45"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "2,156",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "44"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "1,926",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "96"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "1,818",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "45"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "1,814",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "29"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "1,603",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "14"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,359",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "14"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "1,345",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "62"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,285",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "35"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,122",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "34"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "817",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "25"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "792",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "13"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "783",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "3"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "528",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "12"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "522",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "8"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "480",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "23"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "424",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "32"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "406",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "2"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "296",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "8"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "244",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "12"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "43",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "1"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "35",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        }
+    ],
+    "15/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "491,069",
+            "Tu_vong": "18,935",
+            "Ca_mac_moi": "1,270"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "288,324",
+            "Tu_vong": "2,988",
+            "Ca_mac_moi": "371"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "93,413",
+            "Tu_vong": "1,029",
+            "Ca_mac_moi": "464"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "42,082",
+            "Tu_vong": "457",
+            "Ca_mac_moi": "922"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "39,454",
+            "Tu_vong": "790",
+            "Ca_mac_moi": "82"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "32,510",
+            "Tu_vong": "396",
+            "Ca_mac_moi": "732"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "30,405",
+            "Tu_vong": "406",
+            "Ca_mac_moi": "720"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "29,724",
+            "Tu_vong": "716",
+            "Ca_mac_moi": "411"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "28,044",
+            "Tu_vong": "663",
+            "Ca_mac_moi": "294"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "25,670",
+            "Tu_vong": "375",
+            "Ca_mac_moi": "353"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "24,845",
+            "Tu_vong": "187",
+            "Ca_mac_moi": "579"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "22,894",
+            "Tu_vong": "88",
+            "Ca_mac_moi": "238"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "22,468",
+            "Tu_vong": "206",
+            "Ca_mac_moi": "266"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "21,404",
+            "Tu_vong": "124",
+            "Ca_mac_moi": "593"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "20,880",
+            "Tu_vong": "197",
+            "Ca_mac_moi": "505"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "20,802",
+            "Tu_vong": "58",
+            "Ca_mac_moi": "1,024"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "19,840",
+            "Tu_vong": "178",
+            "Ca_mac_moi": "594"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "19,305",
+            "Tu_vong": "78",
+            "Ca_mac_moi": "1,072"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "17,763",
+            "Tu_vong": "96",
+            "Ca_mac_moi": "1,035"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "16,900",
+            "Tu_vong": "33",
+            "Ca_mac_moi": "316"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "13,387",
+            "Tu_vong": "76",
+            "Ca_mac_moi": "360"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "9,632",
+            "Tu_vong": "23",
+            "Ca_mac_moi": "341"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "9,344",
+            "Tu_vong": "54",
+            "Ca_mac_moi": "51"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "9,065",
+            "Tu_vong": "106",
+            "Ca_mac_moi": "236"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "8,437",
+            "Tu_vong": "33",
+            "Ca_mac_moi": "190"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "7,743",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "329"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,253",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "16"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "7,245",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "300"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "6,061",
+            "Tu_vong": "31",
+            "Ca_mac_moi": "113"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "5,614",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "53"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "5,124",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "257"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "5,048",
+            "Tu_vong": "11",
+            "Ca_mac_moi": "164"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "4,972",
+            "Tu_vong": "49",
+            "Ca_mac_moi": "51"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "4,682",
+            "Tu_vong": "43",
+            "Ca_mac_moi": "135"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "4,417",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "129"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "3,831",
+            "Tu_vong": "10",
+            "Ca_mac_moi": "49"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "3,664",
+            "Tu_vong": "19",
+            "Ca_mac_moi": "60"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "3,664",
+            "Tu_vong": "19",
+            "Ca_mac_moi": "60"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,121",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "26"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "2,975",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "116"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,394",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "41"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,374",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "41"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "2,192",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "36"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "2,022",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "96"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "1,880",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "62"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "1,847",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "33"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "1,614",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "11"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "1,396",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "49"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,368",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "9"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,288",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "3"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,155",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "33"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "867",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "50"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "844",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "52"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "795",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "12"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "551",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "23"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "526",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "4"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "503",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "23"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "424",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "409",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "3"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "303",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "7"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "244",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "44",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "1"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "36",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "1"
+        }
+    ],
+    "16/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "492,244",
+            "Tu_vong": "18,993",
+            "Ca_mac_moi": "1,175"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "288,599",
+            "Tu_vong": "3,002",
+            "Ca_mac_moi": "275"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "93,892",
+            "Tu_vong": "1,056",
+            "Ca_mac_moi": "479"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "61,806",
+            "Tu_vong": "477",
+            "Ca_mac_moi": "932"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "39,519",
+            "Tu_vong": "798",
+            "Ca_mac_moi": "65"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "33,305",
+            "Tu_vong": "406",
+            "Ca_mac_moi": "795"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "31,133",
+            "Tu_vong": "418",
+            "Ca_mac_moi": "728"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "30,054",
+            "Tu_vong": "733",
+            "Ca_mac_moi": "330"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "28,431",
+            "Tu_vong": "683",
+            "Ca_mac_moi": "387"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "25,937",
+            "Tu_vong": "385",
+            "Ca_mac_moi": "267"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "25,179",
+            "Tu_vong": "196",
+            "Ca_mac_moi": "334"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "23,154",
+            "Tu_vong": "90",
+            "Ca_mac_moi": "260"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "22,618",
+            "Tu_vong": "213",
+            "Ca_mac_moi": "150"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "22,002",
+            "Tu_vong": "125",
+            "Ca_mac_moi": "598"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "21,396",
+            "Tu_vong": "201",
+            "Ca_mac_moi": "516"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "21,225",
+            "Tu_vong": "60",
+            "Ca_mac_moi": "423"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "20,644",
+            "Tu_vong": "81",
+            "Ca_mac_moi": "1,339"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "20,437",
+            "Tu_vong": "184",
+            "Ca_mac_moi": "597"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "18,523",
+            "Tu_vong": "96",
+            "Ca_mac_moi": "760"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "17,780",
+            "Tu_vong": "36",
+            "Ca_mac_moi": "880"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "13,808",
+            "Tu_vong": "80",
+            "Ca_mac_moi": "421"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "9,945",
+            "Tu_vong": "23",
+            "Ca_mac_moi": "313"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "9,496",
+            "Tu_vong": "54",
+            "Ca_mac_moi": "152"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "9,277",
+            "Tu_vong": "106",
+            "Ca_mac_moi": "212"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "8,775",
+            "Tu_vong": "36",
+            "Ca_mac_moi": "338"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "7,996",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "253"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "7,497",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "252"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,272",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "19"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "6,144",
+            "Tu_vong": "31",
+            "Ca_mac_moi": "83"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "5,683",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "69"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "5,305",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "181"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "5,176",
+            "Tu_vong": "11",
+            "Ca_mac_moi": "128"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "5,021",
+            "Tu_vong": "49",
+            "Ca_mac_moi": "49"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "4,757",
+            "Tu_vong": "43",
+            "Ca_mac_moi": "75"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "4,574",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "157"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "3,855",
+            "Tu_vong": "10",
+            "Ca_mac_moi": "24"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "3,843",
+            "Tu_vong": "20",
+            "Ca_mac_moi": "179"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "3,843",
+            "Tu_vong": "20",
+            "Ca_mac_moi": "179"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "3,306",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "330"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,170",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "49"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,418",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "24"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,374",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "2,221",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "29"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "2,068",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "46"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "1,932",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "52"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "1,868",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "21"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "1,633",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "19"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "1,513",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "117"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,380",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "10"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,319",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "31"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,194",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "39"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "962",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "95"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "878",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "34"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "820",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "25"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "555",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "4"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "528",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "25"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "528",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "2"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "424",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "413",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "4"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "310",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "7"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "244",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "45",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "1"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "38",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "2"
+        }
+    ],
+    "17/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "493,285",
+            "Tu_vong": "19,042",
+            "Ca_mac_moi": "1,040"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "288,808",
+            "Tu_vong": "3,027",
+            "Ca_mac_moi": "209"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "94,230",
+            "Tu_vong": "1,078",
+            "Ca_mac_moi": "338"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "62,748",
+            "Tu_vong": "489",
+            "Ca_mac_moi": "940"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "39,590",
+            "Tu_vong": "810",
+            "Ca_mac_moi": "71"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "34,109",
+            "Tu_vong": "417",
+            "Ca_mac_moi": "804"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "31,848",
+            "Tu_vong": "433",
+            "Ca_mac_moi": "715"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "30,386",
+            "Tu_vong": "746",
+            "Ca_mac_moi": "332"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "28,744",
+            "Tu_vong": "701",
+            "Ca_mac_moi": "313"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "26,209",
+            "Tu_vong": "396",
+            "Ca_mac_moi": "272"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "25,699",
+            "Tu_vong": "204",
+            "Ca_mac_moi": "520"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "23,412",
+            "Tu_vong": "93",
+            "Ca_mac_moi": "258"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "22,759",
+            "Tu_vong": "219",
+            "Ca_mac_moi": "141"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "22,599",
+            "Tu_vong": "125",
+            "Ca_mac_moi": "597"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "21,965",
+            "Tu_vong": "205",
+            "Ca_mac_moi": "569"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "21,760",
+            "Tu_vong": "64",
+            "Ca_mac_moi": "535"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "21,715",
+            "Tu_vong": "87",
+            "Ca_mac_moi": "1,071"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "21,035",
+            "Tu_vong": "193",
+            "Ca_mac_moi": "598"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "19,769",
+            "Tu_vong": "108",
+            "Ca_mac_moi": "1,246"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "18,597",
+            "Tu_vong": "37",
+            "Ca_mac_moi": "817"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "14,292",
+            "Tu_vong": "81",
+            "Ca_mac_moi": "484"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "10,229",
+            "Tu_vong": "24",
+            "Ca_mac_moi": "284"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "9,579",
+            "Tu_vong": "56",
+            "Ca_mac_moi": "83"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "9,471",
+            "Tu_vong": "106",
+            "Ca_mac_moi": "194"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "9,160",
+            "Tu_vong": "36",
+            "Ca_mac_moi": "385"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "8,135",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "139"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "7,752",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "255"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,297",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "25"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "6,232",
+            "Tu_vong": "32",
+            "Ca_mac_moi": "88"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "5,728",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "45"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "5,560",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "255"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "5,285",
+            "Tu_vong": "11",
+            "Ca_mac_moi": "109"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "5,021",
+            "Tu_vong": "49",
+            "Ca_mac_moi": "49"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "4,757",
+            "Tu_vong": "43",
+            "Ca_mac_moi": "75"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "4,574",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "157"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "3,855",
+            "Tu_vong": "10",
+            "Ca_mac_moi": "24"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "3,843",
+            "Tu_vong": "20",
+            "Ca_mac_moi": "179"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "3,843",
+            "Tu_vong": "20",
+            "Ca_mac_moi": "179"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "3,306",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "330"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,170",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "49"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,418",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "24"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,374",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "2,221",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "29"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "2,068",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "46"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "1,932",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "52"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "1,868",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "21"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "1,633",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "19"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "1,513",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "117"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,380",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "10"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,319",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "31"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,194",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "39"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "962",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "95"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "878",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "34"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "820",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "25"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "555",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "4"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "528",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "25"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "528",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "2"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "424",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "413",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "4"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "310",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "7"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "244",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "45",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "1"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "38",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "2"
+        }
+    ],
+    "18/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "494,304",
+            "Tu_vong": "19,042",
+            "Ca_mac_moi": "1,019"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "288,975",
+            "Tu_vong": "3,042",
+            "Ca_mac_moi": "167"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "94,549",
+            "Tu_vong": "1,102",
+            "Ca_mac_moi": "319"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "63,689",
+            "Tu_vong": "498",
+            "Ca_mac_moi": "941"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "39,647",
+            "Tu_vong": "820",
+            "Ca_mac_moi": "57"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "34,894",
+            "Tu_vong": "429",
+            "Ca_mac_moi": "785"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "32,597",
+            "Tu_vong": "445",
+            "Ca_mac_moi": "749"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "30,650",
+            "Tu_vong": "762",
+            "Ca_mac_moi": "264"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "29,118",
+            "Tu_vong": "725",
+            "Ca_mac_moi": "374"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "26,607",
+            "Tu_vong": "411",
+            "Ca_mac_moi": "398"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "26,146",
+            "Tu_vong": "215",
+            "Ca_mac_moi": "447"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "23,682",
+            "Tu_vong": "97",
+            "Ca_mac_moi": "270"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "23,200",
+            "Tu_vong": "132",
+            "Ca_mac_moi": "601"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "23,087",
+            "Tu_vong": "226",
+            "Ca_mac_moi": "328"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "23,056",
+            "Tu_vong": "94",
+            "Ca_mac_moi": "1,341"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "23,004",
+            "Tu_vong": "64",
+            "Ca_mac_moi": "1,244"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "22,440",
+            "Tu_vong": "208",
+            "Ca_mac_moi": "475"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "21,630",
+            "Tu_vong": "202",
+            "Ca_mac_moi": "595"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "20,595",
+            "Tu_vong": "108",
+            "Ca_mac_moi": "826"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "19,312",
+            "Tu_vong": "37",
+            "Ca_mac_moi": "715"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "14,746",
+            "Tu_vong": "81",
+            "Ca_mac_moi": "454"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "10,569",
+            "Tu_vong": "24",
+            "Ca_mac_moi": "340"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "9,664",
+            "Tu_vong": "106",
+            "Ca_mac_moi": "193"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "9,579",
+            "Tu_vong": "56",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "9,439",
+            "Tu_vong": "36",
+            "Ca_mac_moi": "279"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "8,496",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "361"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "8,001",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "249"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,320",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "23"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "6,331",
+            "Tu_vong": "32",
+            "Ca_mac_moi": "99"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "5,787",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "59"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "5,785",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "225"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "5,404",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "119"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "5,061",
+            "Tu_vong": "49",
+            "Ca_mac_moi": "40"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "4,851",
+            "Tu_vong": "43",
+            "Ca_mac_moi": "94"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "4,766",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "192"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "3,964",
+            "Tu_vong": "21",
+            "Ca_mac_moi": "121"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "3,964",
+            "Tu_vong": "21",
+            "Ca_mac_moi": "121"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "3,927",
+            "Tu_vong": "10",
+            "Ca_mac_moi": "72"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "3,514",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "208"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,217",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "47"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,454",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "36"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,417",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "43"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "2,288",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "67"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "2,131",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "63"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "2,002",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "70"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "1,954",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "86"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "1,657",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "24"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "1,576",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "63"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,385",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "5"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,353",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "34"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,223",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "28"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "962",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "935",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "57"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "836",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "16"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "575",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "20"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "572",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "44"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "530",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "2"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "469",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "25"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "429",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "5"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "323",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "13"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "248",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "4"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "47",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "2"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "38",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        }
+    ],
+    "19/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "495,318",
+            "Tu_vong": "19,094",
+            "Ca_mac_moi": "1,014"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "289,220",
+            "Tu_vong": "3,062",
+            "Ca_mac_moi": "245"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "94,966",
+            "Tu_vong": "1,125",
+            "Ca_mac_moi": "417"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "64,632",
+            "Tu_vong": "508",
+            "Ca_mac_moi": "941"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "39,716",
+            "Tu_vong": "822",
+            "Ca_mac_moi": "69"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "35,674",
+            "Tu_vong": "440",
+            "Ca_mac_moi": "780"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "33,390",
+            "Tu_vong": "457",
+            "Ca_mac_moi": "793"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "30,927",
+            "Tu_vong": "776",
+            "Ca_mac_moi": "277"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "29,462",
+            "Tu_vong": "741",
+            "Ca_mac_moi": "344"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "26,919",
+            "Tu_vong": "411",
+            "Ca_mac_moi": "312"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "26,571",
+            "Tu_vong": "227",
+            "Ca_mac_moi": "425"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "24,409",
+            "Tu_vong": "67",
+            "Ca_mac_moi": "1,405"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "24,401",
+            "Tu_vong": "94",
+            "Ca_mac_moi": "1,345"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "23,903",
+            "Tu_vong": "102",
+            "Ca_mac_moi": "221"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "23,799",
+            "Tu_vong": "135",
+            "Ca_mac_moi": "599"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "23,222",
+            "Tu_vong": "233",
+            "Ca_mac_moi": "135"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "22,977",
+            "Tu_vong": "211",
+            "Ca_mac_moi": "537"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "22,223",
+            "Tu_vong": "208",
+            "Ca_mac_moi": "593"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "21,433",
+            "Tu_vong": "111",
+            "Ca_mac_moi": "838"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "19,871",
+            "Tu_vong": "43",
+            "Ca_mac_moi": "559"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "15,239",
+            "Tu_vong": "86",
+            "Ca_mac_moi": "493"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "10,572",
+            "Tu_vong": "25",
+            "Ca_mac_moi": "3"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "9,873",
+            "Tu_vong": "36",
+            "Ca_mac_moi": "434"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "9,818",
+            "Tu_vong": "56",
+            "Ca_mac_moi": "239"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "9,807",
+            "Tu_vong": "106",
+            "Ca_mac_moi": "143"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "8,858",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "362"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "8,220",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "219"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,361",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "41"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "6,455",
+            "Tu_vong": "32",
+            "Ca_mac_moi": "124"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "6,030",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "245"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "5,854",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "67"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "5,512",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "108"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "5,112",
+            "Tu_vong": "49",
+            "Ca_mac_moi": "51"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "4,952",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "186"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "4,947",
+            "Tu_vong": "43",
+            "Ca_mac_moi": "96"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,101",
+            "Tu_vong": "22",
+            "Ca_mac_moi": "137"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,101",
+            "Tu_vong": "22",
+            "Ca_mac_moi": "137"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "3,978",
+            "Tu_vong": "10",
+            "Ca_mac_moi": "51"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "3,931",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "417"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,254",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "37"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,480",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "26"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,476",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "59"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "2,355",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "67"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "2,211",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "80"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "2,046",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "44"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "2,021",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "67"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "1,715",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "139"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "1,679",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "22"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,431",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "37"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,374",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "18"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,254",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "31"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "1,016",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "54"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "942",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "7"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "852",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "16"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "589",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "17"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "575",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "536",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "5"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "469",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "443",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "14"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "334",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "11"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "255",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "7"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "48",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "1"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "38",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        }
+    ],
+    "20/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "495,318",
+            "Tu_vong": "19,094",
+            "Ca_mac_moi": "1,014"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "289,220",
+            "Tu_vong": "3,062",
+            "Ca_mac_moi": "245"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "94,966",
+            "Tu_vong": "1,125",
+            "Ca_mac_moi": "417"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "64,632",
+            "Tu_vong": "508",
+            "Ca_mac_moi": "941"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "39,716",
+            "Tu_vong": "822",
+            "Ca_mac_moi": "69"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "35,674",
+            "Tu_vong": "440",
+            "Ca_mac_moi": "780"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "33,390",
+            "Tu_vong": "457",
+            "Ca_mac_moi": "793"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "30,927",
+            "Tu_vong": "776",
+            "Ca_mac_moi": "277"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "29,462",
+            "Tu_vong": "741",
+            "Ca_mac_moi": "344"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "26,919",
+            "Tu_vong": "411",
+            "Ca_mac_moi": "312"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "26,571",
+            "Tu_vong": "227",
+            "Ca_mac_moi": "425"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "24,409",
+            "Tu_vong": "67",
+            "Ca_mac_moi": "1,405"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "24,401",
+            "Tu_vong": "94",
+            "Ca_mac_moi": "1,345"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "23,903",
+            "Tu_vong": "102",
+            "Ca_mac_moi": "221"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "23,799",
+            "Tu_vong": "135",
+            "Ca_mac_moi": "599"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "23,222",
+            "Tu_vong": "233",
+            "Ca_mac_moi": "135"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "22,977",
+            "Tu_vong": "211",
+            "Ca_mac_moi": "537"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "22,223",
+            "Tu_vong": "208",
+            "Ca_mac_moi": "593"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "21,433",
+            "Tu_vong": "111",
+            "Ca_mac_moi": "838"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "19,871",
+            "Tu_vong": "43",
+            "Ca_mac_moi": "559"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "15,239",
+            "Tu_vong": "86",
+            "Ca_mac_moi": "493"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "10,572",
+            "Tu_vong": "25",
+            "Ca_mac_moi": "3"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "9,873",
+            "Tu_vong": "36",
+            "Ca_mac_moi": "434"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "9,818",
+            "Tu_vong": "56",
+            "Ca_mac_moi": "239"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "9,807",
+            "Tu_vong": "106",
+            "Ca_mac_moi": "143"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "8,858",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "362"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "8,220",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "219"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,361",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "41"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "6,455",
+            "Tu_vong": "32",
+            "Ca_mac_moi": "124"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "6,030",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "245"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "5,854",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "67"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "5,512",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "108"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "5,112",
+            "Tu_vong": "49",
+            "Ca_mac_moi": "51"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "4,952",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "186"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "4,947",
+            "Tu_vong": "43",
+            "Ca_mac_moi": "96"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,101",
+            "Tu_vong": "22",
+            "Ca_mac_moi": "137"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,101",
+            "Tu_vong": "22",
+            "Ca_mac_moi": "137"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "3,978",
+            "Tu_vong": "10",
+            "Ca_mac_moi": "51"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "3,931",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "417"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,254",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "37"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,480",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "26"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,476",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "59"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "2,355",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "67"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "2,211",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "80"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "2,046",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "44"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "2,021",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "67"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "1,715",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "139"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "1,679",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "22"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,431",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "37"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,374",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "18"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,254",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "31"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "1,016",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "54"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "942",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "7"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "852",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "16"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "589",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "17"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "575",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "536",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "5"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "469",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "443",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "14"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "334",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "11"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "255",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "7"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "48",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "1"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "38",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        }
+    ],
+    "21/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "496,818",
+            "Tu_vong": "19,190",
+            "Ca_mac_moi": "813"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "289,509",
+            "Tu_vong": "3,093",
+            "Ca_mac_moi": "134"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "95,534",
+            "Tu_vong": "1,178",
+            "Ca_mac_moi": "284"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "66,523",
+            "Tu_vong": "542",
+            "Ca_mac_moi": "939"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "39,813",
+            "Tu_vong": "838",
+            "Ca_mac_moi": "51"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "37,248",
+            "Tu_vong": "459",
+            "Ca_mac_moi": "788"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "34,960",
+            "Tu_vong": "477",
+            "Ca_mac_moi": "797"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "31,664",
+            "Tu_vong": "802",
+            "Ca_mac_moi": "390"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "29,982",
+            "Tu_vong": "763",
+            "Ca_mac_moi": "250"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "27,725",
+            "Tu_vong": "75",
+            "Ca_mac_moi": "1,704"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "27,497",
+            "Tu_vong": "424",
+            "Ca_mac_moi": "276"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "27,368",
+            "Tu_vong": "248",
+            "Ca_mac_moi": "349"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "26,958",
+            "Tu_vong": "102",
+            "Ca_mac_moi": "1,590"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "25,306",
+            "Tu_vong": "143",
+            "Ca_mac_moi": "798"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "24,554",
+            "Tu_vong": "111",
+            "Ca_mac_moi": "378"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "24,036",
+            "Tu_vong": "218",
+            "Ca_mac_moi": "507"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "23,692",
+            "Tu_vong": "246",
+            "Ca_mac_moi": "248"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "23,418",
+            "Tu_vong": "227",
+            "Ca_mac_moi": "599"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "23,024",
+            "Tu_vong": "129",
+            "Ca_mac_moi": "606"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "20,001",
+            "Tu_vong": "46",
+            "Ca_mac_moi": "52"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "16,053",
+            "Tu_vong": "91",
+            "Ca_mac_moi": "485"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "10,840",
+            "Tu_vong": "27",
+            "Ca_mac_moi": "325"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "10,713",
+            "Tu_vong": "38",
+            "Ca_mac_moi": "429"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "10,118",
+            "Tu_vong": "107",
+            "Ca_mac_moi": "169"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "9,957",
+            "Tu_vong": "59",
+            "Ca_mac_moi": "139"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "9,456",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "370"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "8,634",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "202"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,408",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "26"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "6,724",
+            "Tu_vong": "33",
+            "Ca_mac_moi": "153"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "6,458",
+            "Tu_vong": "21",
+            "Ca_mac_moi": "254"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "6,030",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "91"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "5,618",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "9"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "5,560",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "364"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "5,239",
+            "Tu_vong": "44",
+            "Ca_mac_moi": "55"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "5,211",
+            "Tu_vong": "50",
+            "Ca_mac_moi": "49"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,377",
+            "Tu_vong": "23",
+            "Ca_mac_moi": "245"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,377",
+            "Tu_vong": "23",
+            "Ca_mac_moi": "245"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "4,261",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "235"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "4,149",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "108"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,308",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "24"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "2,746",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "259"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,548",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "41"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,541",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "45"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "2,467",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "67"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "2,146",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "80"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "2,131",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "39"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "1,942",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "91"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "1,726",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "26"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,469",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "14"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,437",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "37"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,287",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "23"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "1,130",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "62"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "1,003",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "32"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "869",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "8"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "647",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "24"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "601",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "14"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "541",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "2"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "525",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "17"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "465",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "12"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "345",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "8"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "266",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "8"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "51",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "2"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "38",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        }
+    ],
+    "22/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "497,797",
+            "Tu_vong": "19,229",
+            "Ca_mac_moi": "979"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "289,658",
+            "Tu_vong": "3,111",
+            "Ca_mac_moi": "149"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "95,799",
+            "Tu_vong": "1,178",
+            "Ca_mac_moi": "265"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "67,469",
+            "Tu_vong": "555",
+            "Ca_mac_moi": "923"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "39,884",
+            "Tu_vong": "842",
+            "Ca_mac_moi": "71"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "38,032",
+            "Tu_vong": "471",
+            "Ca_mac_moi": "784"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "35,717",
+            "Tu_vong": "488",
+            "Ca_mac_moi": "757"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "31,863",
+            "Tu_vong": "818",
+            "Ca_mac_moi": "199"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "30,273",
+            "Tu_vong": "791",
+            "Ca_mac_moi": "291"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "29,373",
+            "Tu_vong": "80",
+            "Ca_mac_moi": "1,646"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "28,151",
+            "Tu_vong": "107",
+            "Ca_mac_moi": "1,193"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "27,772",
+            "Tu_vong": "434",
+            "Ca_mac_moi": "275"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "27,751",
+            "Tu_vong": "259",
+            "Ca_mac_moi": "383"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "26,104",
+            "Tu_vong": "143",
+            "Ca_mac_moi": "798"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "24,851",
+            "Tu_vong": "117",
+            "Ca_mac_moi": "297"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "24,714",
+            "Tu_vong": "223",
+            "Ca_mac_moi": "678"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "24,264",
+            "Tu_vong": "235",
+            "Ca_mac_moi": "846"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "23,951",
+            "Tu_vong": "252",
+            "Ca_mac_moi": "259"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "23,490",
+            "Tu_vong": "131",
+            "Ca_mac_moi": "466"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "20,062",
+            "Tu_vong": "47",
+            "Ca_mac_moi": "61"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "16,568",
+            "Tu_vong": "96",
+            "Ca_mac_moi": "515"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "11,183",
+            "Tu_vong": "28",
+            "Ca_mac_moi": "343"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "11,072",
+            "Tu_vong": "41",
+            "Ca_mac_moi": "359"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "10,289",
+            "Tu_vong": "107",
+            "Ca_mac_moi": "171"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "10,254",
+            "Tu_vong": "60",
+            "Ca_mac_moi": "297"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "9,807",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "351"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "8,880",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "246"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,438",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "30"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "6,845",
+            "Tu_vong": "33",
+            "Ca_mac_moi": "121"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "6,753",
+            "Tu_vong": "21",
+            "Ca_mac_moi": "295"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "6,130",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "100"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "5,798",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "180"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "5,756",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "196"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "5,368",
+            "Tu_vong": "44",
+            "Ca_mac_moi": "129"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "5,266",
+            "Tu_vong": "50",
+            "Ca_mac_moi": "55"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "4,710",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "449"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,571",
+            "Tu_vong": "23",
+            "Ca_mac_moi": "194"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,571",
+            "Tu_vong": "23",
+            "Ca_mac_moi": "194"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "4,220",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "71"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,343",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "34"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "3,007",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "261"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,615",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "67"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,580",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "39"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "2,521",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "54"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "2,208",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "62"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "2,203",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "72"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "2,076",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "134"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "1,750",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "24"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,490",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "53"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,469",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,315",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "28"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "1,220",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "90"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "1,035",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "32"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "890",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "21"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "652",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "5"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "611",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "10"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "543",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "525",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "475",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "7"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "355",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "10"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "274",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "8"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "52",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "1"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "41",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "3"
+        }
+    ],
+    "23/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "498,587",
+            "Tu_vong": "19,263",
+            "Ca_mac_moi": "787"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "289,776",
+            "Tu_vong": "3,130",
+            "Ca_mac_moi": "118"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "96,031",
+            "Tu_vong": "1,217",
+            "Ca_mac_moi": "232"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "68,418",
+            "Tu_vong": "571",
+            "Ca_mac_moi": "949"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "39,944",
+            "Tu_vong": "856",
+            "Ca_mac_moi": "60"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "38,819",
+            "Tu_vong": "486",
+            "Ca_mac_moi": "787"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "36,509",
+            "Tu_vong": "501",
+            "Ca_mac_moi": "792"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "32,145",
+            "Tu_vong": "835",
+            "Ca_mac_moi": "282"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "31,147",
+            "Tu_vong": "85",
+            "Ca_mac_moi": "1,774"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "30,595",
+            "Tu_vong": "819",
+            "Ca_mac_moi": "322"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "29,318",
+            "Tu_vong": "115",
+            "Ca_mac_moi": "1,167"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "28,047",
+            "Tu_vong": "265",
+            "Ca_mac_moi": "296"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "28,028",
+            "Tu_vong": "443",
+            "Ca_mac_moi": "256"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "26,901",
+            "Tu_vong": "149",
+            "Ca_mac_moi": "797"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "25,403",
+            "Tu_vong": "228",
+            "Ca_mac_moi": "689"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "25,195",
+            "Tu_vong": "127",
+            "Ca_mac_moi": "344"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "25,119",
+            "Tu_vong": "246",
+            "Ca_mac_moi": "855"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "24,239",
+            "Tu_vong": "256",
+            "Ca_mac_moi": "288"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "23,926",
+            "Tu_vong": "131",
+            "Ca_mac_moi": "436"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "20,093",
+            "Tu_vong": "50",
+            "Ca_mac_moi": "31"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "17,095",
+            "Tu_vong": "98",
+            "Ca_mac_moi": "527"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "11,627",
+            "Tu_vong": "44",
+            "Ca_mac_moi": "555"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "11,404",
+            "Tu_vong": "33",
+            "Ca_mac_moi": "221"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "10,484",
+            "Tu_vong": "108",
+            "Ca_mac_moi": "195"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "10,345",
+            "Tu_vong": "60",
+            "Ca_mac_moi": "91"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "10,202",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "395"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "9,106",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "226"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,472",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "34"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "6,993",
+            "Tu_vong": "33",
+            "Ca_mac_moi": "148"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "6,804",
+            "Tu_vong": "23",
+            "Ca_mac_moi": "251"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "6,237",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "107"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "6,062",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "306"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "5,980",
+            "Tu_vong": "15",
+            "Ca_mac_moi": "182"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "5,502",
+            "Tu_vong": "44",
+            "Ca_mac_moi": "134"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "5,327",
+            "Tu_vong": "50",
+            "Ca_mac_moi": "61"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "4,962",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "252"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,703",
+            "Tu_vong": "24",
+            "Ca_mac_moi": "132"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,703",
+            "Tu_vong": "24",
+            "Ca_mac_moi": "132"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "4,275",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "55"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,380",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "37"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "3,275",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "267"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,674",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "59"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,631",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "51"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "2,604",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "83"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "2,254",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "46"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "2,242",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "39"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "2,232",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "156"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "1,792",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "42"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,575",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "83"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,499",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "28"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,376",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "61"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "1,257",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "37"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "1,069",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "34"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "895",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "5"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "661",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "9"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "623",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "12"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "547",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "3"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "525",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "492",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "16"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "373",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "18"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "318",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "44"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "55",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "3"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "45",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "4"
+        }
+    ],
+    "24/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "499,268",
+            "Tu_vong": "19,298",
+            "Ca_mac_moi": "679"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "289,870",
+            "Tu_vong": "3,141",
+            "Ca_mac_moi": "94"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "96,385",
+            "Tu_vong": "1,238",
+            "Ca_mac_moi": "354"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "69,366",
+            "Tu_vong": "581",
+            "Ca_mac_moi": "948"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "40,018",
+            "Tu_vong": "861",
+            "Ca_mac_moi": "74"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "39,601",
+            "Tu_vong": "499",
+            "Ca_mac_moi": "782"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "37,294",
+            "Tu_vong": "514",
+            "Ca_mac_moi": "785"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "32,981",
+            "Tu_vong": "90",
+            "Ca_mac_moi": "1,834"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "32,291",
+            "Tu_vong": "850",
+            "Ca_mac_moi": "146"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "30,894",
+            "Tu_vong": "839",
+            "Ca_mac_moi": "299"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "30,652",
+            "Tu_vong": "120",
+            "Ca_mac_moi": "1,334"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "28,381",
+            "Tu_vong": "452",
+            "Ca_mac_moi": "353"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "28,370",
+            "Tu_vong": "272",
+            "Ca_mac_moi": "323"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "27,686",
+            "Tu_vong": "153",
+            "Ca_mac_moi": "785"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "25,987",
+            "Tu_vong": "260",
+            "Ca_mac_moi": "868"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "25,910",
+            "Tu_vong": "232",
+            "Ca_mac_moi": "507"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "25,554",
+            "Tu_vong": "131",
+            "Ca_mac_moi": "359"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "24,424",
+            "Tu_vong": "261",
+            "Ca_mac_moi": "185"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "24,189",
+            "Tu_vong": "147",
+            "Ca_mac_moi": "263"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "20,133",
+            "Tu_vong": "52",
+            "Ca_mac_moi": "40"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "17,663",
+            "Tu_vong": "103",
+            "Ca_mac_moi": "568"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "12,170",
+            "Tu_vong": "50",
+            "Ca_mac_moi": "543"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "11,482",
+            "Tu_vong": "35",
+            "Ca_mac_moi": "78"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "10,624",
+            "Tu_vong": "108",
+            "Ca_mac_moi": "140"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "10,608",
+            "Tu_vong": "60",
+            "Ca_mac_moi": "263"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "10,601",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "399"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "9,395",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "289"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,503",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "31"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "7,107",
+            "Tu_vong": "33",
+            "Ca_mac_moi": "114"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "7,033",
+            "Tu_vong": "24",
+            "Ca_mac_moi": "229"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "6,323",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "86"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "6,286",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "222"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "6,196",
+            "Tu_vong": "15",
+            "Ca_mac_moi": "216"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "5,855",
+            "Tu_vong": "44",
+            "Ca_mac_moi": "353"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "5,378",
+            "Tu_vong": "52",
+            "Ca_mac_moi": "51"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "4,981",
+            "Tu_vong": "7",
+            "Ca_mac_moi": "19"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,793",
+            "Tu_vong": "24",
+            "Ca_mac_moi": "90"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,793",
+            "Tu_vong": "24",
+            "Ca_mac_moi": "90"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "4,354",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "79"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "3,571",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "296"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,423",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "42"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "2,725",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "121"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,719",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "44"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,690",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "59"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "2,358",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "104"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "2,330",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "98"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "2,303",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "61"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "1,840",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "48"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,646",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "70"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,536",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "35"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,403",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "37"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "1,291",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "34"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "1,117",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "48"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "923",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "28"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "680",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "19"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "671",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "48"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "550",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "4"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "525",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "506",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "14"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "385",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "12"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "328",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "10"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "62",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "7"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "47",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "2"
+        }
+    ],
+    "25/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "500,153",
+            "Tu_vong": "19,333",
+            "Ca_mac_moi": "885"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "289,978",
+            "Tu_vong": "3,159",
+            "Ca_mac_moi": "108"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "96,659",
+            "Tu_vong": "1,278",
+            "Ca_mac_moi": "274"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "70,312",
+            "Tu_vong": "593",
+            "Ca_mac_moi": "946"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "40,390",
+            "Tu_vong": "512",
+            "Ca_mac_moi": "789"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "40,068",
+            "Tu_vong": "865",
+            "Ca_mac_moi": "50"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "37,996",
+            "Tu_vong": "526",
+            "Ca_mac_moi": "702"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "34,860",
+            "Tu_vong": "95",
+            "Ca_mac_moi": "1,879"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "32,617",
+            "Tu_vong": "868",
+            "Ca_mac_moi": "326"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "31,487",
+            "Tu_vong": "127",
+            "Ca_mac_moi": "835"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "31,183",
+            "Tu_vong": "857",
+            "Ca_mac_moi": "289"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "28,663",
+            "Tu_vong": "465",
+            "Ca_mac_moi": "282"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "28,649",
+            "Tu_vong": "281",
+            "Ca_mac_moi": "279"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "28,479",
+            "Tu_vong": "156",
+            "Ca_mac_moi": "793"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "26,862",
+            "Tu_vong": "270",
+            "Ca_mac_moi": "875"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "26,522",
+            "Tu_vong": "235",
+            "Ca_mac_moi": "612"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "25,851",
+            "Tu_vong": "135",
+            "Ca_mac_moi": "297"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "24,666",
+            "Tu_vong": "264",
+            "Ca_mac_moi": "242"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "24,392",
+            "Tu_vong": "147",
+            "Ca_mac_moi": "203"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "20,160",
+            "Tu_vong": "52",
+            "Ca_mac_moi": "27"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "18,227",
+            "Tu_vong": "109",
+            "Ca_mac_moi": "564"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "12,557",
+            "Tu_vong": "50",
+            "Ca_mac_moi": "387"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "11,575",
+            "Tu_vong": "38",
+            "Ca_mac_moi": "93"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "10,996",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "395"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "10,835",
+            "Tu_vong": "108",
+            "Ca_mac_moi": "211"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "10,608",
+            "Tu_vong": "62",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "9,647",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "252"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,564",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "61"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "7,254",
+            "Tu_vong": "24",
+            "Ca_mac_moi": "221"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "7,202",
+            "Tu_vong": "33",
+            "Ca_mac_moi": "95"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "6,439",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "153"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "6,427",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "104"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "6,362",
+            "Tu_vong": "15",
+            "Ca_mac_moi": "166"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "6,047",
+            "Tu_vong": "46",
+            "Ca_mac_moi": "192"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "5,411",
+            "Tu_vong": "52",
+            "Ca_mac_moi": "33"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "5,406",
+            "Tu_vong": "7",
+            "Ca_mac_moi": "425"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,840",
+            "Tu_vong": "24",
+            "Ca_mac_moi": "47"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,840",
+            "Tu_vong": "24",
+            "Ca_mac_moi": "47"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "4,407",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "53"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "3,842",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "271"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,455",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "32"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "2,848",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "123"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,828",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "109"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,738",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "48"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "2,513",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "183"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "2,449",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "91"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "2,340",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "37"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "1,908",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "68"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,803",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "148"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,536",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,473",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "64"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "1,291",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "1,154",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "37"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "940",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "17"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "718",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "38"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "671",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "552",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "2"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "525",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "521",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "14"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "399",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "14"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "365",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "27"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "69",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "7"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "47",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        }
+    ],
+    "26/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "500,697",
+            "Tu_vong": "19,365",
+            "Ca_mac_moi": "544"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "290,208",
+            "Tu_vong": "3,168",
+            "Ca_mac_moi": "230"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "96,865",
+            "Tu_vong": "1,294",
+            "Ca_mac_moi": "206"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "71,240",
+            "Tu_vong": "609",
+            "Ca_mac_moi": "928"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "41,171",
+            "Tu_vong": "524",
+            "Ca_mac_moi": "781"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "40,136",
+            "Tu_vong": "868",
+            "Ca_mac_moi": "68"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "38,711",
+            "Tu_vong": "532",
+            "Ca_mac_moi": "715"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "36,778",
+            "Tu_vong": "98",
+            "Ca_mac_moi": "1,910"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "32,746",
+            "Tu_vong": "884",
+            "Ca_mac_moi": "129"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "32,066",
+            "Tu_vong": "134",
+            "Ca_mac_moi": "579"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "31,435",
+            "Tu_vong": "882",
+            "Ca_mac_moi": "252"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "29,242",
+            "Tu_vong": "158",
+            "Ca_mac_moi": "763"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "28,930",
+            "Tu_vong": "289",
+            "Ca_mac_moi": "281"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "28,893",
+            "Tu_vong": "477",
+            "Ca_mac_moi": "230"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "27,751",
+            "Tu_vong": "283",
+            "Ca_mac_moi": "889"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "27,011",
+            "Tu_vong": "236",
+            "Ca_mac_moi": "489"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "26,006",
+            "Tu_vong": "137",
+            "Ca_mac_moi": "155"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "24,830",
+            "Tu_vong": "268",
+            "Ca_mac_moi": "164"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "24,822",
+            "Tu_vong": "155",
+            "Ca_mac_moi": "430"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "20,200",
+            "Tu_vong": "52",
+            "Ca_mac_moi": "40"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "18,799",
+            "Tu_vong": "114",
+            "Ca_mac_moi": "572"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "13,357",
+            "Tu_vong": "54",
+            "Ca_mac_moi": "800"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "11,617",
+            "Tu_vong": "38",
+            "Ca_mac_moi": "42"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "11,371",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "375"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "10,953",
+            "Tu_vong": "108",
+            "Ca_mac_moi": "116"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "10,878",
+            "Tu_vong": "62",
+            "Ca_mac_moi": "270"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "9,914",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "267"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,604",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "40"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "7,507",
+            "Tu_vong": "24",
+            "Ca_mac_moi": "253"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "7,362",
+            "Tu_vong": "33",
+            "Ca_mac_moi": "159"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "6,780",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "341"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "6,547",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "120"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "6,475",
+            "Tu_vong": "15",
+            "Ca_mac_moi": "113"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "6,049",
+            "Tu_vong": "47",
+            "Ca_mac_moi": "2"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "5,673",
+            "Tu_vong": "7",
+            "Ca_mac_moi": "267"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "5,450",
+            "Tu_vong": "52",
+            "Ca_mac_moi": "39"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,966",
+            "Tu_vong": "25",
+            "Ca_mac_moi": "126"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "4,966",
+            "Tu_vong": "25",
+            "Ca_mac_moi": "126"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "4,486",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "79"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "4,080",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "238"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,522",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "66"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "2,944",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "96"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,937",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "108"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,790",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "52"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "2,633",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "120"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "2,553",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "104"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "2,397",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "57"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "1,987",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "79"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,841",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "35"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,552",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "15"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,513",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "27"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "1,326",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "35"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "1,180",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "26"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "946",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "6"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "808",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "137"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "737",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "19"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "563",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "4"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "536",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "15"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "525",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "406",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "7"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "389",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "24"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "77",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "8"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "50",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "3"
+        }
+    ],
+    "27/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "501,258",
+            "Tu_vong": "19,389",
+            "Ca_mac_moi": "560"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "290,285",
+            "Tu_vong": "3,201",
+            "Ca_mac_moi": "77"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "97,081",
+            "Tu_vong": "1,313",
+            "Ca_mac_moi": "216"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "72,183",
+            "Tu_vong": "623",
+            "Ca_mac_moi": "943"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "41,872",
+            "Tu_vong": "525",
+            "Ca_mac_moi": "701"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "40,181",
+            "Tu_vong": "869",
+            "Ca_mac_moi": "45"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "39,422",
+            "Tu_vong": "543",
+            "Ca_mac_moi": "711"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "38,726",
+            "Tu_vong": "98",
+            "Ca_mac_moi": "1,948"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "32,880",
+            "Tu_vong": "899",
+            "Ca_mac_moi": "134"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "32,499",
+            "Tu_vong": "141",
+            "Ca_mac_moi": "433"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "31,648",
+            "Tu_vong": "904",
+            "Ca_mac_moi": "213"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "30,033",
+            "Tu_vong": "161",
+            "Ca_mac_moi": "791"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "29,153",
+            "Tu_vong": "302",
+            "Ca_mac_moi": "223"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "29,097",
+            "Tu_vong": "489",
+            "Ca_mac_moi": "204"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "28,643",
+            "Tu_vong": "295",
+            "Ca_mac_moi": "892"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "27,606",
+            "Tu_vong": "242",
+            "Ca_mac_moi": "595"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "26,168",
+            "Tu_vong": "148",
+            "Ca_mac_moi": "162"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "25,103",
+            "Tu_vong": "163",
+            "Ca_mac_moi": "281"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "24,970",
+            "Tu_vong": "271",
+            "Ca_mac_moi": "140"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "20,230",
+            "Tu_vong": "52",
+            "Ca_mac_moi": "30"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "19,343",
+            "Tu_vong": "117",
+            "Ca_mac_moi": "544"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "13,858",
+            "Tu_vong": "55",
+            "Ca_mac_moi": "501"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "11,752",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "381"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "11,680",
+            "Tu_vong": "38",
+            "Ca_mac_moi": "63"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "11,039",
+            "Tu_vong": "108",
+            "Ca_mac_moi": "86"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "11,012",
+            "Tu_vong": "63",
+            "Ca_mac_moi": "134"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "10,240",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "326"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "7,770",
+            "Tu_vong": "24",
+            "Ca_mac_moi": "263"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,644",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "40"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "7,455",
+            "Tu_vong": "34",
+            "Ca_mac_moi": "93"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "7,029",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "249"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "6,669",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "122"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "6,611",
+            "Tu_vong": "15",
+            "Ca_mac_moi": "136"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "6,604",
+            "Tu_vong": "7",
+            "Ca_mac_moi": "931"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "6,161",
+            "Tu_vong": "47",
+            "Ca_mac_moi": "112"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "5,506",
+            "Tu_vong": "52",
+            "Ca_mac_moi": "56"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "5,167",
+            "Tu_vong": "25",
+            "Ca_mac_moi": "201"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "5,167",
+            "Tu_vong": "25",
+            "Ca_mac_moi": "201"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "4,584",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "98"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "4,314",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "234"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,536",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "14"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "3,022",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "78"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,937",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,840",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "50"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "2,736",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "103"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "2,638",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "85"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "2,439",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "42"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "2,085",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "98"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,894",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "53"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,572",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "18"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,572",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "59"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "1,326",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "1,225",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "45"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "974",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "28"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "863",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "126"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "832",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "24"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "573",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "9"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "557",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "21"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "525",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "425",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "19"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "411",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "22"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "85",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "8"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "50",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        }
+    ],
+    "28/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "501,258",
+            "Tu_vong": "19,389",
+            "Ca_mac_moi": "560"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "290,285",
+            "Tu_vong": "3,201",
+            "Ca_mac_moi": "77"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "97,081",
+            "Tu_vong": "1,313",
+            "Ca_mac_moi": "216"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "72,183",
+            "Tu_vong": "623",
+            "Ca_mac_moi": "943"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "41,872",
+            "Tu_vong": "525",
+            "Ca_mac_moi": "701"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "40,181",
+            "Tu_vong": "869",
+            "Ca_mac_moi": "45"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "39,422",
+            "Tu_vong": "543",
+            "Ca_mac_moi": "711"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "38,726",
+            "Tu_vong": "98",
+            "Ca_mac_moi": "1,948"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "32,880",
+            "Tu_vong": "899",
+            "Ca_mac_moi": "134"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "32,499",
+            "Tu_vong": "141",
+            "Ca_mac_moi": "433"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "31,648",
+            "Tu_vong": "904",
+            "Ca_mac_moi": "213"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "30,033",
+            "Tu_vong": "161",
+            "Ca_mac_moi": "791"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "29,153",
+            "Tu_vong": "302",
+            "Ca_mac_moi": "223"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "29,097",
+            "Tu_vong": "489",
+            "Ca_mac_moi": "204"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "28,643",
+            "Tu_vong": "295",
+            "Ca_mac_moi": "892"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "27,606",
+            "Tu_vong": "242",
+            "Ca_mac_moi": "595"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "26,168",
+            "Tu_vong": "148",
+            "Ca_mac_moi": "162"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "25,103",
+            "Tu_vong": "163",
+            "Ca_mac_moi": "281"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "24,970",
+            "Tu_vong": "271",
+            "Ca_mac_moi": "140"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "20,230",
+            "Tu_vong": "52",
+            "Ca_mac_moi": "30"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "19,343",
+            "Tu_vong": "117",
+            "Ca_mac_moi": "544"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "13,858",
+            "Tu_vong": "55",
+            "Ca_mac_moi": "501"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "11,752",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "381"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "11,680",
+            "Tu_vong": "38",
+            "Ca_mac_moi": "63"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "11,039",
+            "Tu_vong": "108",
+            "Ca_mac_moi": "86"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "11,012",
+            "Tu_vong": "63",
+            "Ca_mac_moi": "134"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "10,240",
+            "Tu_vong": "17",
+            "Ca_mac_moi": "326"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "7,770",
+            "Tu_vong": "24",
+            "Ca_mac_moi": "263"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,644",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "40"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "7,455",
+            "Tu_vong": "34",
+            "Ca_mac_moi": "93"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "7,029",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "249"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "6,669",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "122"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "6,611",
+            "Tu_vong": "15",
+            "Ca_mac_moi": "136"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "6,604",
+            "Tu_vong": "7",
+            "Ca_mac_moi": "931"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "6,161",
+            "Tu_vong": "47",
+            "Ca_mac_moi": "112"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "5,506",
+            "Tu_vong": "52",
+            "Ca_mac_moi": "56"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "5,167",
+            "Tu_vong": "25",
+            "Ca_mac_moi": "201"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "5,167",
+            "Tu_vong": "25",
+            "Ca_mac_moi": "201"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "4,584",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "98"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "4,314",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "234"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,536",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "14"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "3,022",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "78"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "2,937",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,840",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "50"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "2,736",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "103"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "2,638",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "85"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "2,439",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "42"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "2,085",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "98"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "1,894",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "53"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,572",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "18"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,572",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "59"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "1,326",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "1,225",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "45"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "974",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "28"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "863",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "126"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "832",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "24"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "573",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "9"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "557",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "21"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "525",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "425",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "19"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "411",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "22"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "85",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "8"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "50",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        }
+    ],
+    "29/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "502,632",
+            "Tu_vong": "19,455",
+            "Ca_mac_moi": "702"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "290,513",
+            "Tu_vong": "3,225",
+            "Ca_mac_moi": "119"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "97,418",
+            "Tu_vong": "1,348",
+            "Ca_mac_moi": "213"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "74,058",
+            "Tu_vong": "650",
+            "Ca_mac_moi": "938"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "43,077",
+            "Tu_vong": "554",
+            "Ca_mac_moi": "595"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "42,412",
+            "Tu_vong": "120",
+            "Ca_mac_moi": "1,766"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "40,322",
+            "Tu_vong": "568",
+            "Ca_mac_moi": "137"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "40,297",
+            "Tu_vong": "881",
+            "Ca_mac_moi": "59"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "33,282",
+            "Tu_vong": "929",
+            "Ca_mac_moi": "214"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "32,718",
+            "Tu_vong": "159",
+            "Ca_mac_moi": "35"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "32,011",
+            "Tu_vong": "948",
+            "Ca_mac_moi": "172"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "31,616",
+            "Tu_vong": "167",
+            "Ca_mac_moi": "793"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "30,471",
+            "Tu_vong": "324",
+            "Ca_mac_moi": "917"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "29,582",
+            "Tu_vong": "314",
+            "Ca_mac_moi": "200"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "29,532",
+            "Tu_vong": "512",
+            "Ca_mac_moi": "185"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "28,684",
+            "Tu_vong": "247",
+            "Ca_mac_moi": "593"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "26,220",
+            "Tu_vong": "159",
+            "Ca_mac_moi": "52"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "25,415",
+            "Tu_vong": "278",
+            "Ca_mac_moi": "159"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "25,267",
+            "Tu_vong": "170",
+            "Ca_mac_moi": "92"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "20,309",
+            "Tu_vong": "56",
+            "Ca_mac_moi": "55"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "20,265",
+            "Tu_vong": "124",
+            "Ca_mac_moi": "337"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "14,726",
+            "Tu_vong": "56",
+            "Ca_mac_moi": "432"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "12,504",
+            "Tu_vong": "12",
+            "Ca_mac_moi": "390"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "11,907",
+            "Tu_vong": "44",
+            "Ca_mac_moi": "132"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "11,354",
+            "Tu_vong": "109",
+            "Ca_mac_moi": "180"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "11,285",
+            "Tu_vong": "65",
+            "Ca_mac_moi": "213"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "10,937",
+            "Tu_vong": "18",
+            "Ca_mac_moi": "263"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "8,482",
+            "Tu_vong": "24",
+            "Ca_mac_moi": "347"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,768",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "81"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "7,622",
+            "Tu_vong": "34",
+            "Ca_mac_moi": "88"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "7,583",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "206"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "7,473",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "271"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "6,983",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "174"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "6,867",
+            "Tu_vong": "15",
+            "Ca_mac_moi": "128"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "6,862",
+            "Tu_vong": "49",
+            "Ca_mac_moi": "686"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "5,610",
+            "Tu_vong": "52",
+            "Ca_mac_moi": "57"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "5,426",
+            "Tu_vong": "25",
+            "Ca_mac_moi": "119"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "5,426",
+            "Tu_vong": "25",
+            "Ca_mac_moi": "119"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "4,758",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "249"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "4,751",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "120"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,591",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "31"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "3,197",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "3,192",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "85"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "3,076",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "158"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "2,948",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "51"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "2,833",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "98"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "2,540",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "42"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "2,273",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "92"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "2,062",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "106"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,674",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "54"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,594",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "12"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "1,385",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "1,327",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "52"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "1,036",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "37"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "972",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "58"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "924",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "40"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "645",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "120"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "596",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "21"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "585",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "7"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "480",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "37"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "462",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "7"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "102",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "5"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "55",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        }
+    ],
+    "30/12/2021": [
+        {
+            "Tinh_thanh": "TP. H\u1ed3 Ch\u00ed Minh",
+            "Ca_nhiem": "504,024",
+            "Tu_vong": "19,485",
+            "Ca_mac_moi": "697"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh D\u01b0\u01a1ng",
+            "Ca_nhiem": "290,609",
+            "Tu_vong": "3,245",
+            "Ca_mac_moi": "96"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Nai",
+            "Ca_nhiem": "97,578",
+            "Tu_vong": "1,348",
+            "Ca_mac_moi": "160"
+        },
+        {
+            "Tinh_thanh": "T\u00e2y Ninh",
+            "Ca_nhiem": "75,005",
+            "Tu_vong": "662",
+            "Ca_mac_moi": "935"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 N\u1ed9i",
+            "Ca_nhiem": "44,278",
+            "Tu_vong": "133",
+            "Ca_mac_moi": "1,866"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1ed3ng Th\u00e1p",
+            "Ca_nhiem": "43,667",
+            "Tu_vong": "569",
+            "Ca_mac_moi": "590"
+        },
+        {
+            "Tinh_thanh": "C\u1ea7n Th\u01a1",
+            "Ca_nhiem": "40,609",
+            "Tu_vong": "584",
+            "Ca_mac_moi": "287"
+        },
+        {
+            "Tinh_thanh": "Long An",
+            "Ca_nhiem": "40,350",
+            "Tu_vong": "893",
+            "Ca_mac_moi": "53"
+        },
+        {
+            "Tinh_thanh": "C\u00e0 Mau",
+            "Ca_nhiem": "36,594",
+            "Tu_vong": "165",
+            "Ca_mac_moi": "1,008"
+        },
+        {
+            "Tinh_thanh": "Ti\u1ec1n Giang",
+            "Ca_nhiem": "33,485",
+            "Tu_vong": "943",
+            "Ca_mac_moi": "203"
+        },
+        {
+            "Tinh_thanh": "Kh\u00e1nh H\u00f2a",
+            "Ca_nhiem": "32,404",
+            "Tu_vong": "167",
+            "Ca_mac_moi": "788"
+        },
+        {
+            "Tinh_thanh": "An Giang",
+            "Ca_nhiem": "32,273",
+            "Tu_vong": "964",
+            "Ca_mac_moi": "262"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Long",
+            "Ca_nhiem": "31,057",
+            "Tu_vong": "339",
+            "Ca_mac_moi": "586"
+        },
+        {
+            "Tinh_thanh": "S\u00f3c Tr\u0103ng",
+            "Ca_nhiem": "29,762",
+            "Tu_vong": "326",
+            "Ca_mac_moi": "180"
+        },
+        {
+            "Tinh_thanh": "Ki\u00ean Giang",
+            "Ca_nhiem": "29,735",
+            "Tu_vong": "525",
+            "Ca_mac_moi": "203"
+        },
+        {
+            "Tinh_thanh": "B\u1ea1c Li\u00eau",
+            "Ca_nhiem": "29,350",
+            "Tu_vong": "248",
+            "Ca_mac_moi": "666"
+        },
+        {
+            "Tinh_thanh": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+            "Ca_nhiem": "26,400",
+            "Tu_vong": "170",
+            "Ca_mac_moi": "180"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Thu\u1eadn",
+            "Ca_nhiem": "25,692",
+            "Tu_vong": "284",
+            "Ca_mac_moi": "277"
+        },
+        {
+            "Tinh_thanh": "B\u1ebfn Tre",
+            "Ca_nhiem": "25,463",
+            "Tu_vong": "179",
+            "Ca_mac_moi": "196"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh Ph\u01b0\u1edbc",
+            "Ca_nhiem": "21,068",
+            "Tu_vong": "57",
+            "Ca_mac_moi": "759"
+        },
+        {
+            "Tinh_thanh": "Tr\u00e0 Vinh",
+            "Ca_nhiem": "20,844",
+            "Tu_vong": "129",
+            "Ca_mac_moi": "579"
+        },
+        {
+            "Tinh_thanh": "B\u00ecnh \u0110\u1ecbnh",
+            "Ca_nhiem": "15,346",
+            "Tu_vong": "56",
+            "Ca_mac_moi": "620"
+        },
+        {
+            "Tinh_thanh": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+            "Ca_nhiem": "12,943",
+            "Tu_vong": "65",
+            "Ca_mac_moi": "439"
+        },
+        {
+            "Tinh_thanh": "H\u1eadu Giang",
+            "Ca_nhiem": "12,060",
+            "Tu_vong": "46",
+            "Ca_mac_moi": "153"
+        },
+        {
+            "Tinh_thanh": "\u0110\u00e0 N\u1eb5ng",
+            "Ca_nhiem": "11,539",
+            "Tu_vong": "109",
+            "Ca_mac_moi": "185"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk L\u1eafk",
+            "Ca_nhiem": "11,354",
+            "Tu_vong": "66",
+            "Ca_mac_moi": "69"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Ninh",
+            "Ca_nhiem": "11,226",
+            "Tu_vong": "18",
+            "Ca_mac_moi": "289"
+        },
+        {
+            "Tinh_thanh": "L\u00e2m \u0110\u1ed3ng",
+            "Ca_nhiem": "8,959",
+            "Tu_vong": "25",
+            "Ca_mac_moi": "477"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i Ph\u00f2ng",
+            "Ca_nhiem": "8,311",
+            "Tu_vong": "9",
+            "Ca_mac_moi": "838"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc Giang",
+            "Ca_nhiem": "7,814",
+            "Tu_vong": "14",
+            "Ca_mac_moi": "46"
+        },
+        {
+            "Tinh_thanh": "Thanh H\u00f3a",
+            "Ca_nhiem": "7,767",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "182"
+        },
+        {
+            "Tinh_thanh": "Ngh\u1ec7 An",
+            "Ca_nhiem": "7,745",
+            "Tu_vong": "34",
+            "Ca_mac_moi": "123"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Y\u00ean",
+            "Ca_nhiem": "7,151",
+            "Tu_vong": "54",
+            "Ca_mac_moi": "289"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Giang",
+            "Ca_nhiem": "7,143",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "160"
+        },
+        {
+            "Tinh_thanh": "Gia Lai",
+            "Ca_nhiem": "7,022",
+            "Tu_vong": "15",
+            "Ca_mac_moi": "155"
+        },
+        {
+            "Tinh_thanh": "Ninh Thu\u1eadn",
+            "Ca_nhiem": "5,667",
+            "Tu_vong": "52",
+            "Ca_mac_moi": "57"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "5,567",
+            "Tu_vong": "25",
+            "Ca_mac_moi": "141"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ng\u00e3i",
+            "Ca_nhiem": "5,567",
+            "Tu_vong": "25",
+            "Ca_mac_moi": "141"
+        },
+        {
+            "Tinh_thanh": "H\u01b0ng Y\u00ean",
+            "Ca_nhiem": "4,969",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "211"
+        },
+        {
+            "Tinh_thanh": "\u0110\u1eafk N\u00f4ng",
+            "Ca_nhiem": "4,851",
+            "Tu_vong": "13",
+            "Ca_mac_moi": "100"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng B\u00ecnh",
+            "Ca_nhiem": "3,604",
+            "Tu_vong": "8",
+            "Ca_mac_moi": "13"
+        },
+        {
+            "Tinh_thanh": "H\u1ea3i D\u01b0\u01a1ng",
+            "Ca_nhiem": "3,496",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "299"
+        },
+        {
+            "Tinh_thanh": "Nam \u0110\u1ecbnh",
+            "Ca_nhiem": "3,294",
+            "Tu_vong": "2",
+            "Ca_mac_moi": "102"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Ninh",
+            "Ca_nhiem": "3,241",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "165"
+        },
+        {
+            "Tinh_thanh": "Ph\u00fa Th\u1ecd",
+            "Ca_nhiem": "3,052",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "104"
+        },
+        {
+            "Tinh_thanh": "V\u0129nh Ph\u00fac",
+            "Ca_nhiem": "2,929",
+            "Tu_vong": "6",
+            "Ca_mac_moi": "96"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i B\u00ecnh",
+            "Ca_nhiem": "2,598",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "58"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 Nam",
+            "Ca_nhiem": "2,372",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "98"
+        },
+        {
+            "Tinh_thanh": "Qu\u1ea3ng Tr\u1ecb",
+            "Ca_nhiem": "2,123",
+            "Tu_vong": "4",
+            "Ca_mac_moi": "59"
+        },
+        {
+            "Tinh_thanh": "Th\u00e1i Nguy\u00ean",
+            "Ca_nhiem": "1,724",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "50"
+        },
+        {
+            "Tinh_thanh": "H\u00e0 T\u0129nh",
+            "Ca_nhiem": "1,594",
+            "Tu_vong": "5",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "L\u1ea1ng S\u01a1n",
+            "Ca_nhiem": "1,488",
+            "Tu_vong": "7",
+            "Ca_mac_moi": "103"
+        },
+        {
+            "Tinh_thanh": "Ho\u00e0 B\u00ecnh",
+            "Ca_nhiem": "1,374",
+            "Tu_vong": "3",
+            "Ca_mac_moi": "47"
+        },
+        {
+            "Tinh_thanh": "S\u01a1n La",
+            "Ca_nhiem": "1,101",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "129"
+        },
+        {
+            "Tinh_thanh": "Tuy\u00ean Quang",
+            "Ca_nhiem": "1,057",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "21"
+        },
+        {
+            "Tinh_thanh": "Kon Tum",
+            "Ca_nhiem": "924",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "0"
+        },
+        {
+            "Tinh_thanh": "Ninh B\u00ecnh",
+            "Ca_nhiem": "805",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "160"
+        },
+        {
+            "Tinh_thanh": "Y\u00ean B\u00e1i",
+            "Ca_nhiem": "610",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "14"
+        },
+        {
+            "Tinh_thanh": "\u0110i\u1ec7n Bi\u00ean",
+            "Ca_nhiem": "602",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "17"
+        },
+        {
+            "Tinh_thanh": "L\u00e0o Cai",
+            "Ca_nhiem": "524",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "44"
+        },
+        {
+            "Tinh_thanh": "Cao B\u1eb1ng",
+            "Ca_nhiem": "520",
+            "Tu_vong": "1",
+            "Ca_mac_moi": "58"
+        },
+        {
+            "Tinh_thanh": "Lai Ch\u00e2u",
+            "Ca_nhiem": "106",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "4"
+        },
+        {
+            "Tinh_thanh": "B\u1eafc K\u1ea1n",
+            "Ca_nhiem": "56",
+            "Tu_vong": "0",
+            "Ca_mac_moi": "1"
+        }
+    ]
+}
